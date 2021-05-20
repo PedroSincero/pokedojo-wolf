@@ -8,9 +8,13 @@ Desenvolver uma aplicação web que utiliza a pokeApi
 - [ ] Adicionar Lint ? 
 - [ ] Configurar Lint ? 
 - [ ] Fazer request para a PokeAPI.
-- [ ] Fazer a busca pelo nome do pokemon.
+- [ ] Fazer a busca pelo nome do pokemon.  
 - [ ] Redirecionar para uma pagina de detalhes
-- [ ] Mostrar as abilidades de cada pokemon  
+- [ ] Mostrar as abilidades de cada pokemon (```abilities```) 
+- [ ] Mostrar os Tipos de cada pokemon (```types```)
+- [ ] Mostrar altura (```height```)
+- [ ] Mostrar Sprite (```front_default```)
+- [ ] Mostrar peso (```weight```)
 
 ** Bonus **  
 
